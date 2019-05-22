@@ -1,0 +1,3 @@
+1º COPIAR O SCRIPT "comando_redes" PARA A PASTA: C:\WINDOWS
+
+2º COPIAR O SCRIPT "start" PARA A PASTA INICIALIZAR : C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
