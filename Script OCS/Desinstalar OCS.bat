@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\OCS Inventory Agent\uninst.exe" /S
